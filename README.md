@@ -75,7 +75,8 @@ Add additional earthquake datasets in the data folder if needed.
 
 Screenshots
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/695970d7-4791-44a7-878b-c03da2401a90" />
+<img width="1915" height="934" alt="screenshot of earth" src="https://github.com/user-attachments/assets/1c2009d5-f66a-4aab-a7b5-829f64c59fd0" />
+
 
 
 
